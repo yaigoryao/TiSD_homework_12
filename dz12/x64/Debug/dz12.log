@@ -1,0 +1,21 @@
+﻿  dz12.cpp
+C:\Users\Игорь\Desktop\учеба\LabRab\ИУК4-32Б\Типы и структуры данных\lab3_12\dz12\dz12\MaxStream.h(16,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Игорь\Desktop\учеба\LabRab\ИУК4-32Б\Типы и структуры данных\lab3_12\dz12\dz12\MaxStream.h(294,74): warning C4566: символ, представленный универсальным именем символа "\u221E", невозможно представить в текущей кодовой странице (1251)
+C:\Users\Игорь\Desktop\учеба\LabRab\ИУК4-32Б\Типы и структуры данных\lab3_12\dz12\dz12\MaxStream.h(240,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Игорь\Desktop\учеба\LabRab\ИУК4-32Б\Типы и структуры данных\lab3_12\dz12\dz12\MaxStream.h(248,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Игорь\Desktop\учеба\LabRab\ИУК4-32Б\Типы и структуры данных\lab3_12\dz12\dz12\myVector.h(534,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Игорь\Desktop\учеба\LabRab\ИУК4-32Б\Типы и структуры данных\lab3_12\dz12\dz12\myVector.h(528,13): message : во время компиляции функции-члена класс шаблон "PIA::myVector<int> &PIA::myVector<int>::operator =(const PIA::myVector<int> &)"
+C:\Users\Игорь\Desktop\учеба\LabRab\ИУК4-32Б\Типы и структуры данных\lab3_12\dz12\dz12\MaxStream.h(233,10): message : см. первую ссылку на "PIA::myVector<int>::operator =" в "MaxStream::FloydWarshell"
+C:\Users\Игорь\Desktop\учеба\LabRab\ИУК4-32Б\Типы и структуры данных\lab3_12\dz12\dz12\MaxStream.h(108,16): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "PIA::myVector<int>"
+C:\Users\Игорь\Desktop\учеба\LabRab\ИУК4-32Б\Типы и структуры данных\lab3_12\dz12\dz12\myVector.h(510,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Игорь\Desktop\учеба\LabRab\ИУК4-32Б\Типы и структуры данных\lab3_12\dz12\dz12\myVector.h(503,3): message : во время компиляции функции-члена класс шаблон "PIA::myVector<int>::myVector(const PIA::myVector<int> &)"
+C:\Users\Игорь\Desktop\учеба\LabRab\ИУК4-32Б\Типы и структуры данных\lab3_12\dz12\dz12\MaxStream.h(138,3): message : см. первую ссылку на "PIA::myVector<int>::myVector" в "MaxStream::BFS"
+C:\Users\Игорь\Desktop\учеба\LabRab\ИУК4-32Б\Типы и структуры данных\lab3_12\dz12\dz12\myVector.h(75,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Игорь\Desktop\учеба\LabRab\ИУК4-32Б\Типы и структуры данных\lab3_12\dz12\dz12\myVector.h(70,3): message : во время компиляции функции-члена класс шаблон "PIA::myVector<int>::myVector(unsigned int,int)"
+C:\Users\Игорь\Desktop\учеба\LabRab\ИУК4-32Б\Типы и структуры данных\lab3_12\dz12\dz12\MaxStream.h(112,22): message : см. первую ссылку на "PIA::myVector<int>::myVector" в "MaxStream::BFS"
+C:\Users\Игорь\Desktop\учеба\LabRab\ИУК4-32Б\Типы и структуры данных\lab3_12\dz12\dz12\myVector.h(22,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Игорь\Desktop\учеба\LabRab\ИУК4-32Б\Типы и структуры данных\lab3_12\dz12\dz12\myVector.h(15,8): message : во время компиляции функции-члена класс шаблон "bool PIA::myVector<int>::addMemory(void)"
+C:\Users\Игорь\Desktop\учеба\LabRab\ИУК4-32Б\Типы и структуры данных\lab3_12\dz12\dz12\myVector.h(133,13): message : см. первую ссылку на "PIA::myVector<int>::addMemory" в "PIA::myVector<int>::pushFront"
+C:\Users\Игорь\Desktop\учеба\LabRab\ИУК4-32Б\Типы и структуры данных\lab3_12\dz12\dz12\MaxStream.h(114,18): message : см. первую ссылку на "PIA::myVector<int>::pushFront" в "MaxStream::BFS"
+C:\Users\Игорь\Desktop\учеба\LabRab\ИУК4-32Б\Типы и структуры данных\lab3_12\dz12\dz12\MaxStream.h(268): warning C4715: MaxStream::FloydWarshell: значение возвращается не при всех путях выполнения
+  dz12.vcxproj -> C:\Users\Игорь\Desktop\учеба\LabRab\ИУК4-32Б\Типы и структуры данных\lab3_12\dz12\x64\Debug\dz12.exe
